@@ -62,6 +62,7 @@ a:hover {
 	width: 40%;
 	display: inline-block;
 	vertical-align: top;
+	text-align: center;
 }
 #footer {
 	background-color: #2f2f2f;
