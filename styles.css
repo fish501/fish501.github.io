@@ -125,15 +125,15 @@ a:hover {
     animation-direction: normal;
 }
 @keyframes animation1 {
-    0%   {background-color:#1abc9c; left:0px; top:0px;}
+    0%   {background-color:#1abc9c; left:0%; top:0px;}
     0%   {transform: rotate(0deg);}
-    25%  {background-color:#F6A623; left:300px; top:0px;}
+    25%  {background-color:#F6A623; left:25%; top:0px;}
     25%  {transform: rotate(10deg);}
-    50%  {background-color:#1abc9c; left:600px; top:0px;}/*green*/
+    50%  {background-color:#1abc9c; left:50%; top:0px;}/*green*/
     50%  {transform: rotate(0deg);}
-    75%  {background-color:#F6A623; left:300px; top:0px;}/*orange*/
+    75%  {background-color:#F6A623; left:25%; top:0px;}/*orange*/
     75%  {transform: rotate(-10deg);}
-    100% {background-color:#1abc9c; left:0px; top:0px;}
+    100% {background-color:#1abc9c; left:0%; top:0px;}
 }/*this section is linked to .boxAnimation*/
 
 
