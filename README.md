@@ -1,1 +1,1 @@
-# fish501.github.io.test
+# fish501.github.io/test
